@@ -1,8 +1,5 @@
 @charset "UTF-8";
 
-/*!
-
- */
 :root {
     --blue: rgba(68, 120, 255, 0.85);
     --indigo: #727cf5;
@@ -19294,4 +19291,10 @@ a.text-white:hover {
 
 .border-wb-20 {
     border-bottom: 1px solid rgba(255, 255, 255, .2)
+}
+
+.fw-800 {
+    font-weight: 900;
+    font-size: 80px;
+    line-height: 80px;
 }
